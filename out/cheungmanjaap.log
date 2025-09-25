@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.29)  24 SEP 2025 23:17
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.29)  25 SEP 2025 00:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/hongjan/Documents/book-multiverse/multiverse
-(/Users/hongjan/Documents/book-multiverse/multiverse.tex
+**/Users/hongjan/Documents/book-cheungmanjaap-長文集/cheungmanjaap
+(/Users/hongjan/Documents/book-cheungmanjaap-長文集/cheungmanjaap.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/book.cls
@@ -625,10 +625,10 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 )
 \@indexfile=\write3
-\openout3 = `multiverse.idx'.
+\openout3 = `cheungmanjaap.idx'.
 
 
-Writing index file multiverse.idx
+Writing index file cheungmanjaap.idx
 (/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box92
@@ -998,8 +998,8 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \stackedbox=\box137
 \@centerbox=\box138
 \c@ROWcellindex@=\count393
-)) (out/multiverse.aux)
-\openout1 = `multiverse.aux'.
+)) (out/cheungmanjaap.aux)
+\openout1 = `cheungmanjaap.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
@@ -1113,12 +1113,12 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
 )
 \c@lstlisting=\count394
-
+ (./cover/cover.tex)
 
 LaTeX Font Warning: Font shape `TU/BabelStoneHan(0)/b/n' undefined
 (Font)              using `TU/BabelStoneHan(0)/m/n' instead on input line 43.
 
-(out/multiverse.toc
+(out/cheungmanjaap.toc
 
 LaTeX Font Warning: Font shape `TU/JyutcitziWithSourceHanSerifTCRegular(0)/b/n' undefined
 (Font)              using `TU/JyutcitziWithSourceHanSerifTCRegular(0)/m/n' instead on input line 1.
@@ -1130,15 +1130,26 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
-\tf@toc=\write5
-\openout5 = `multiverse.toc'.
-
- (./chapters/0-sample.tex
+)
 
 [1
 
 ]
+
+[2]
+Underfull \hbox (badness 1953) in paragraph at lines 32--32
+ [][] \TU/BabelStoneHan(0)/b/n/14.4 〺 二 發 唔 發 覺，|  喺 香 港 冇 嘢 慘 得 過 做 毒 
+ []
+
+
+
+[3])
+\tf@toc=\write5
+\openout5 = `cheungmanjaap.toc'.
+
+ (./chapters/0.tex
+
+[4]
 Chapter 1.
 > Step: init table outer spec.
 > Step: parse table options.
@@ -1173,7 +1184,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[2
+[5
 
 ]
 > Step: init table outer spec.
@@ -1189,28 +1200,624 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[3]) (./chapters/1-stories.tex
-Missing character: There is no 䭁 (U+4B41) in font BabelStone Han/OT:script=hani;language=dflt;!
+[6]) (./chapters/01.tex
 
+[7]
+Chapter 2.
 
-[4]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[5]
+[8
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[6]
+[9]) (./chapters/02.tex
+
+[10]
+Chapter 3.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[7]) (out/multiverse.ind)
+[11
 
-[8] (out/multiverse.aux)
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[12]) (./chapters/03.tex
+
+[13]
+Chapter 4.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[14
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[15]) (./chapters/04.tex
+
+[16]
+Chapter 5.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[17
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[18]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[19]) (./chapters/05.tex
+
+[20]
+Chapter 6.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[21
+
+]) (./chapters/06.tex
+
+[22]
+Chapter 7.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[23
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[24]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[25]) (./chapters/07.tex
+
+[26]
+Chapter 8.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[27
+
+]) (./chapters/08.tex
+
+[28]
+Chapter 9.
+) (./chapters/09.tex
+
+[29
+
+]
+Chapter 10.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[30
+
+]) (./chapters/10.tex
+
+[31]
+Chapter 11.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[32
+
+]) (./chapters/11.tex
+
+[33]
+Chapter 12.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[34
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[35]) (./chapters/12.tex
+
+[36]
+Chapter 13.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[37
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[38]) (./chapters/13.tex
+
+[39]
+Chapter 14.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[40
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[41]) (./chapters/14.tex
+
+[42]
+Chapter 15.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[43
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[44]) (./chapters/15.tex
+
+[45]
+Chapter 16.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[46
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[47]) (./chapters/16.tex
+
+[48]
+Chapter 17.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[49
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[50]
+Missing character: There is no ​ (U+200B) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ​ (U+200B) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[51]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[52]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[53]) (./chapters/17.tex
+
+[54]
+Chapter 18.
+) (./chapters/18.tex
+
+[55
+
+]
+Chapter 19.
+) (./chapters/19.tex
+
+[56
+
+]
+Chapter 20.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[57
+
+]) (./chapters/20.tex
+
+[58]
+Chapter 21.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[59
+
+]) (./chapters/21.tex
+
+[60]
+Chapter 22.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[61
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[62]) (./chapters/22.tex
+
+[63]
+Chapter 23.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[64
+
+]) (./chapters/23.tex
+
+[65]
+Chapter 24.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[66
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[67]) (./chapters/24.tex
+
+[68]
+Chapter 25.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[69
+
+]) (./chapters/25.tex
+
+[70]
+Chapter 26.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[71
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[72]) (./chapters/26.tex
+
+[73]
+Chapter 27.
+) (./chapters/27.tex
+
+[74
+
+]
+Chapter 28.
+) (./chapters/28.tex
+
+[75
+
+]
+Chapter 29.
+) (./chapters/29.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[76
+
+]
+
+[77]
+Chapter 30.
+) (./chapters/30.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[78
+
+]
+
+[79]
+Chapter 31.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[80
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[81]) (./chapters/31.tex
+
+[82]
+Chapter 32.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[83
+
+]) (./chapters/32.tex
+
+[84]
+Chapter 33.
+Missing character: There is no ￼ (U+FFFC) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ￼ (U+FFFC) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ￼ (U+FFFC) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[85
+
+]) (./chapters/33.tex
+
+[86]
+Chapter 34.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[87
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[88]) (./chapters/34.tex
+
+[89]
+Chapter 35.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[90
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[91]) (./chapters/35.tex
+
+[92]
+Chapter 36.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[93
+
+]) (./chapters/36.tex
+
+[94]
+Chapter 37.
+) (./chapters/37.tex
+
+[95
+
+]
+Chapter 38.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[96
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[97]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[98]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[99]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[100]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[101]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[102]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[103]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[104]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[105]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[106]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[107]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[108]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[109]
+Missing character: There is no ❤ (U+2764) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[110]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[111]
+Missing character: There is no ⠀ (U+2800) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ⠀ (U+2800) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ⠀ (U+2800) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ⠀ (U+2800) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ⠀ (U+2800) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ⠀ (U+2800) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ⠀ (U+2800) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ⠀ (U+2800) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ⠀ (U+2800) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ⠀ (U+2800) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ⠀ (U+2800) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ⠀ (U+2800) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ⠀ (U+2800) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ⠀ (U+2800) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ⠀ (U+2800) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ⠀ (U+2800) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+Missing character: There is no ⠀ (U+2800) in font [./fonts/JyutcitziWithSourceHanSerifTCRegular.ttf]/OT:script=latn;language=dflt;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[112]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[113]) (./chapters/38.tex
+
+[114]
+Chapter 39.
+) (./chapters/39.tex
+
+[115
+
+]
+Chapter 40.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[116
+
+]) (out/cheungmanjaap.ind)
+
+[117] (out/cheungmanjaap.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/08/05>
@@ -1221,12 +1828,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 32118 strings out of 473832
- 773526 string characters out of 5729481
- 1339426 words of memory out of 5000000
- 54626 multiletter control sequences out of 15000+600000
- 569973 words of font info for 100 fonts, out of 8000000 for 9000
+ 32951 strings out of 473832
+ 818687 string characters out of 5729481
+ 1341995 words of memory out of 5000000
+ 55339 multiletter control sequences out of 15000+600000
+ 569989 words of font info for 102 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 121i,20n,127p,707b,1294s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 121i,20n,127p,647b,1292s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/multiverse.pdf (8 pages).
+Output written on out/cheungmanjaap.pdf (117 pages).
